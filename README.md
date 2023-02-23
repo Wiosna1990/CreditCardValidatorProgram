@@ -1,5 +1,4 @@
 # Credit Card Validator Program - Luhn Algorithm
-
 1.Double every second digit from right to left. If doubled number is 2 digits,split them.
 
 2.Add all single digits from step 1
